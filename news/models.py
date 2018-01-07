@@ -12,6 +12,9 @@ class Category(models.Model):
     class Meta:
         verbose_name_plural = 'categories'
 
+    def __str__(self):
+        return self.name
+
 
 class Item(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -19,10 +22,12 @@ class Item(models.Model):
     headline = models.CharField(max_length=255)
     date = models.DateField(default=date.today)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
-    description = models.TextField()
-
+    description = models.TextField(help_text='')
     images = models.TextField()
     sources = models.TextField()
 
     class Meta:
         ordering = ['-episode', '-date']
+
+    def __str__(self):
+        return self.headline
