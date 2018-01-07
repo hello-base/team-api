@@ -6,4 +6,4 @@ from .models import Episode
 class EpisodeSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Episode
-        fields = '__all__'
+        fields = ('number', 'date')
