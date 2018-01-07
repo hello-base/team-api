@@ -22,9 +22,9 @@ class Item(models.Model):
     headline = models.CharField(max_length=255)
     date = models.DateField(default=date.today)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
-    description = models.TextField(help_text='')
-    images = models.TextField()
-    sources = models.TextField()
+    description = models.TextField(blank=True)
+    images = models.TextField(blank=True)
+    sources = models.TextField(blank=True)
 
     class Meta:
         ordering = ['-episode', '-date']
