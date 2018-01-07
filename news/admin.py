@@ -9,5 +9,7 @@ admin.site.register(Category, CategoryAdmin)
 
 
 class ItemAdmin(admin.ModelAdmin):
+    list_display = ['headline', 'episode', 'date', 'category']
+    ordering = ['-episode', 'category', '-date']
     pass
 admin.site.register(Item, ItemAdmin)

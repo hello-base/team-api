@@ -23,12 +23,26 @@ class Item(models.Model):
     date = models.DateField(default=date.today)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
     description = models.TextField(blank=True)
-    images = models.TextField(blank=True)
-    references = models.TextField(blank=True)
-    sources = models.TextField(blank=True)
+
+    # Raw fields (newline-delimited)
+    raw_images = models.TextField('images', blank=True)
+    raw_references = models.TextField('references', blank=True)
+    raw_sources = models.TextField('sources', blank=True)
 
     class Meta:
         ordering = ['-episode', '-date']
 
     def __str__(self):
         return self.headline
+
+    @property
+    def images(self):
+        return self.raw_images.splitlines()
+
+    @property
+    def references(self):
+        return self.raw_references.splitlines()
+
+    @property
+    def sources(self):
+        return self.raw_sources.splitlines()

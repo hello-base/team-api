@@ -14,4 +14,4 @@ class Episode(models.Model):
         ordering = ['-date']
 
     def __str__(self):
-        return 'episode %d' % self.number
+        return '%d' % self.number

@@ -1,4 +1,5 @@
-"""api URL Configuration
+"""
+URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/2.0/topics/http/urls/
@@ -12,10 +13,25 @@ Class-based views
 Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import include, path
+
+from rest_framework import routers
+
+from episodes.views import EpisodeViewSet
+from news.views import ItemViewSet
+
+
+router = routers.DefaultRouter()
+router.register(r'episodes', EpisodeViewSet)
+router.register(r'items', ItemViewSet)
 
 urlpatterns = [
+    #
+    path('', include(router.urls)),
+
+    # Administration system.
     path('admin/', admin.site.urls),
 ]
