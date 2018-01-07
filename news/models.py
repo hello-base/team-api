@@ -9,6 +9,9 @@ class Category(models.Model):
     name = models.CharField(max_length=255)
     slug = models.SlugField()
 
+    class Meta:
+        verbose_name_plural = 'categories'
+
 
 class Item(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -20,3 +23,6 @@ class Item(models.Model):
 
     images = models.TextField()
     sources = models.TextField()
+
+    class Meta:
+        ordering = ['-episode', '-date']
