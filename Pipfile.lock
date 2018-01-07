@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9451b873a5f1ec65c5612f516c9baa84975e79b21de3bbd1612f50bcd8d51385"
+            "sha256": "9fbb614c155a12b8bf7101edf1cc40e7b663b3b3203e3df7d4f84c58e2af4c63"
         },
         "host-environment-markers": {
             "implementation_name": "cpython",
@@ -38,10 +38,10 @@
         },
         "django": {
             "hashes": [
-                "sha256:af18618ce3291be5092893d8522fe3919661bf3a1fb60e3858ae74865a4f07c2",
-                "sha256:9614851d4a7ff8cbd32b73c6076441f377c45a5bbff7e771798fb02c43c31f47"
+                "sha256:52475f607c92035d4ac8fee284f56213065a4a6b25ed43f7e39df0e576e69e9f",
+                "sha256:d96b804be412a5125a594023ec524a2010a6ffa4d408e5482ab6ff3cb97ec12f"
             ],
-            "version": "==2.0"
+            "version": "==2.0.1"
         },
         "djangorestframework": {
             "hashes": [
@@ -49,6 +49,13 @@
                 "sha256:9f9e94e8d22b100ed3a43cee8c47a7ff7b185e778a1f2da9ec5c73fc4e081b87"
             ],
             "version": "==3.7.7"
+        },
+        "gunicorn": {
+            "hashes": [
+                "sha256:75af03c99389535f218cc596c7de74df4763803f7b63eb09d77e92b3956b36c6",
+                "sha256:eee1169f0ca667be05db3351a0960765620dad53f53434262ff8901b68a1b622"
+            ],
+            "version": "==19.7.1"
         },
         "psycopg2": {
             "hashes": [
