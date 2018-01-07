@@ -24,6 +24,7 @@ class Item(models.Model):
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
     description = models.TextField(blank=True)
     images = models.TextField(blank=True)
+    references = models.TextField(blank=True)
     sources = models.TextField(blank=True)
 
     class Meta:
