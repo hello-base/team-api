@@ -30,7 +30,7 @@ class Item(models.Model):
     raw_sources = models.TextField('sources', blank=True)
 
     class Meta:
-        ordering = ['-episode', '-date']
+        ordering = ['episode', 'category', 'date']
 
     def __str__(self):
         return self.headline
