@@ -9,3 +9,4 @@ from .serializers import EpisodeSerializer
 class EpisodeViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Episode.objects.all()
     serializer_class = EpisodeSerializer
+    lookup_field = 'number'
