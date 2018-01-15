@@ -23,6 +23,7 @@ class Item(models.Model):
     date = models.DateField(default=date.today)
     category = models.ForeignKey(Category, on_delete=models.CASCADE)
     description = models.TextField(blank=True)
+    featured = models.BooleanField(default=False)
 
     # Raw fields (newline-delimited)
     raw_images = models.TextField('images', blank=True)
