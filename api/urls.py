@@ -20,12 +20,13 @@ from django.urls import include, path
 
 from rest_framework import routers
 
-from episodes.views import EpisodeViewSet
+from episodes.views import CornerViewSet, EpisodeViewSet
 from news.views import ItemViewSet
 
 
 router = routers.DefaultRouter()
 router.register(r'episodes', EpisodeViewSet)
+router.register(r'corners', CornerViewSet)
 router.register(r'items', ItemViewSet)
 
 urlpatterns = [
