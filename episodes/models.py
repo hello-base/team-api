@@ -4,6 +4,8 @@ from datetime import date
 
 from django.db import models
 
+from model_utils import Choices
+
 
 class Episode(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -15,3 +17,19 @@ class Episode(models.Model):
 
     def __str__(self):
         return '%d' % self.number
+
+
+class Corner(models.Model):
+    CATEGORY = Choices(
+        ('activity', 'Activity'),
+        ('game', 'Game'),
+        ('talk', 'Talk'),
+    )
+
+    id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
+    name = models.CharField(max_length=255)
+    category = models.CharField(max_length=8, choices=CATEGORY, default=CATEGORY.activity)
+    description = models.TextField()
+
+    def __str__(self):
+        return self.name
