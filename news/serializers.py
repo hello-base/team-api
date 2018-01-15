@@ -10,4 +10,4 @@ class ItemSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Item
         fields = ('pk', 'episode', 'headline', 'category', 'description',
-            'images', 'references', 'sources')
+            'featured', 'images', 'references', 'sources')
