@@ -12,4 +12,4 @@ class EpisodeSerializer(serializers.HyperlinkedModelSerializer):
 class CornerSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Corner
-        fields = ('name', 'category', 'description')
+        fields = ('name', 'slug', 'category', 'description')
