@@ -28,6 +28,7 @@ class Corner(models.Model):
 
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     name = models.CharField(max_length=255)
+    slug = models.SlugField()
     category = models.CharField(max_length=8, choices=CATEGORY, default=CATEGORY.activity)
     description = models.TextField()
 

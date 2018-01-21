@@ -9,5 +9,5 @@ admin.site.register(Episode, EpisodeAdmin)
 
 
 class CornerAdmin(admin.ModelAdmin):
-    pass
+    prepopulated_fields = {'slug': ['name']}
 admin.site.register(Corner, CornerAdmin)
