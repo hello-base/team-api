@@ -22,12 +22,14 @@ from rest_framework import routers
 
 from episodes.views import CornerViewSet, EpisodeViewSet
 from news.views import ItemViewSet
+from viewings.views import ViewingViewSet
 
 
 router = routers.DefaultRouter()
 router.register(r'episodes', EpisodeViewSet)
 router.register(r'corners', CornerViewSet)
 router.register(r'items', ItemViewSet)
+router.register(r'viewings', ViewingViewSet)
 
 urlpatterns = [
     #
