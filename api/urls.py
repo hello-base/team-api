@@ -20,14 +20,14 @@ from django.urls import include, path
 
 from rest_framework import routers
 
-from casters.views import CasterViewSet
+from casters.views import UserViewSet
 from episodes.views import CornerViewSet, EpisodeViewSet
 from news.views import ItemViewSet
 from viewings.views import ViewingViewSet
 
 
 router = routers.DefaultRouter()
-router.register(r'casters', CasterViewSet)
+router.register(r'casters', UserViewSet)
 router.register(r'episodes', EpisodeViewSet)
 router.register(r'corners', CornerViewSet)
 router.register(r'items', ItemViewSet)
