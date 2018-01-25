@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'casters',
     'episodes',
     'news',
+    'people',
     'viewings'
 ]
 
