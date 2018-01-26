@@ -123,7 +123,6 @@
   "fields": {
     "name": "Sudou Maasa",
     "birthday": "1992-07-03"
-    "birthday_dayofyear_internal": 185
   },
   "model": "people.person",
   "pk": null
@@ -140,7 +139,6 @@
   "fields": {
     "name": "Kumai Yurina",
     "birthday": "1993-08-03"
-    "birthday_dayofyear_internal": 215
   },
   "model": "people.person",
   "pk": null
@@ -157,7 +155,6 @@
   "fields": {
     "name": "Ishimura Maiha",
     "birthday": "1992-11-20"
-    "birthday_dayofyear_internal": 325
   },
   "model": "people.person",
   "pk": null
@@ -182,7 +179,6 @@
   "fields": {
     "name": "Nakajima Saki",
     "birthday": "1994-02-05"
-    "birthday_dayofyear_internal": 36
   },
   "model": "people.person",
   "pk": null
@@ -199,7 +195,6 @@
   "fields": {
     "name": "Okai Chisato",
     "birthday": "1994-06-21"
-    "birthday_dayofyear_internal": 172
   },
   "model": "people.person",
   "pk": null
@@ -289,7 +284,6 @@
 
     "name": "Yoshizawa Hitomi",
     "birthday": "1985-04-12"
-    "birthday_dayofyear_internal": 102
   },
   "model": "people.person",
   "pk": null
@@ -507,7 +501,6 @@
   "fields": {
     "name": "Mika",
     "birthday": "1984-05-28"
-    "birthday_dayofyear_internal": 149
   },
   "model": "people.person",
   "pk": null
@@ -700,7 +693,6 @@
   "fields": {
     "name": "Maeda Yuuka",
     "birthday": "1994-12-28"
-    "birthday_dayofyear_internal": 362
   },
   "model": "people.person",
   "pk": null
@@ -717,7 +709,6 @@
   "fields": {
     "name": "Saho Akari",
     "birthday": "1995-06-08"
-    "birthday_dayofyear_internal": 159
   },
   "model": "people.person",
   "pk": null
@@ -790,7 +781,6 @@
   "fields": {
     "name": "Yutoku Ayumi",
     "birthday": "1993-10-19"
-    "birthday_dayofyear_internal": 292
   },
   "model": "people.person",
   "pk": null
@@ -856,7 +846,6 @@
 
     "name": "Abe Asami",
     "birthday": "1990-09-05"
-    "birthday_dayofyear_internal": 248
   },
   "model": "people.person",
   "pk": null
@@ -889,7 +878,6 @@
   "fields": {
     "name": "Heike Michiyo",
     "birthday": "1979-04-06"
-    "birthday_dayofyear_internal": 96
   },
   "model": "people.person",
   "pk": null
@@ -922,7 +910,6 @@
   "fields": {
     "name": "Fukumura Mizuki",
     "birthday": "1996-10-30"
-    "birthday_dayofyear_internal": 304
   },
   "model": "people.person",
   "pk": null
@@ -1155,7 +1142,6 @@
   "fields": {
     "name": "Nakanishi Kana",
     "birthday": "1997-06-04"
-    "birthday_dayofyear_internal": 155
   },
   "model": "people.person",
   "pk": null
@@ -1164,7 +1150,6 @@
   "fields": {
     "name": "Kosuga Fuyuka",
     "birthday": "1997-11-19"
-    "birthday_dayofyear_internal": 323
   },
   "model": "people.person",
   "pk": null
