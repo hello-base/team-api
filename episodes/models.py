@@ -22,7 +22,7 @@ class Episode(models.Model):
 
     @property
     def birthdays(self):
-        return Person.objects.get_upcoming_birthdays(after=self.date)
+        return Person.objects.get_upcoming_birthdays(days=31, after=date.today().replace(day=1))
 
 class Corner(models.Model):
     CATEGORY = Choices(
