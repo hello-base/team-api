@@ -3,7 +3,6 @@
   "fields": {
     "name": "Takahashi Ai",
     "birthday": "1986-09-14",
-    "birthday_dayofyear_internal": 257
   },
   "model": "people.person",
   "pk": null
@@ -12,7 +11,6 @@
   "fields": {
     "name": "Niigaki Risa",
     "birthday": "1988-10-20",
-    "birthday_dayofyear_internal": 294
   },
   "model": "people.person",
   "pk": null
@@ -21,7 +19,6 @@
   "fields": {
     "name": "Kamei Eri",
     "birthday": "1988-12-23",
-    "birthday_dayofyear_internal": 358
   },
   "model": "people.person",
   "pk": null
@@ -30,7 +27,6 @@
   "fields": {
     "name": "Michishige Sayumi",
     "birthday": "1989-07-13",
-    "birthday_dayofyear_internal": 194
   },
   "model": "people.person",
   "pk": null
@@ -39,7 +35,6 @@
   "fields": {
     "name": "Tanaka Reina",
     "birthday": "1989-11-11",
-    "birthday_dayofyear_internal": 315
   },
   "model": "people.person",
   "pk": null
@@ -48,7 +43,6 @@
   "fields": {
     "name": "Kusumi Koharu",
     "birthday": "1992-07-15",
-    "birthday_dayofyear_internal": 197
   },
   "model": "people.person",
   "pk": null
@@ -57,7 +51,6 @@
   "fields": {
     "name": "Mitsui Aika",
     "birthday": "1993-01-12",
-    "birthday_dayofyear_internal": 12
   },
   "model": "people.person",
   "pk": null
@@ -66,7 +59,6 @@
   "fields": {
     "name": "JunJun",
     "birthday": "1988-02-11",
-    "birthday_dayofyear_internal": 42
   },
   "model": "people.person",
   "pk": null
@@ -75,7 +67,6 @@
   "fields": {
     "name": "LinLin",
     "birthday": "1991-03-11",
-    "birthday_dayofyear_internal": 70
   },
   "model": "people.person",
   "pk": null
@@ -84,7 +75,6 @@
   "fields": {
     "name": "Fukuda Asuka",
     "birthday": "1984-12-17",
-    "birthday_dayofyear_internal": 352
   },
   "model": "people.person",
   "pk": null
@@ -93,7 +83,6 @@
   "fields": {
     "name": "Ishiguro Aya",
     "birthday": "1978-05-12",
-    "birthday_dayofyear_internal": 132
   },
   "model": "people.person",
   "pk": null
@@ -102,7 +91,6 @@
   "fields": {
     "name": "Ichii Sayaka",
     "birthday": "1983-12-31",
-    "birthday_dayofyear_internal": 365
   },
   "model": "people.person",
   "pk": null
@@ -111,7 +99,6 @@
   "fields": {
     "name": "Shimizu Saki",
     "birthday": "1991-11-22",
-    "birthday_dayofyear_internal": 326
   },
   "model": "people.person",
   "pk": null
@@ -120,7 +107,6 @@
   "fields": {
     "name": "Tsugunaga Momoko",
     "birthday": "1992-03-06",
-    "birthday_dayofyear_internal": 66
   },
   "model": "people.person",
   "pk": null
@@ -129,7 +115,6 @@
   "fields": {
     "name": "Tokunaga Chinami",
     "birthday": "1992-05-22",
-    "birthday_dayofyear_internal": 143
   },
   "model": "people.person",
   "pk": null
@@ -147,7 +132,6 @@
   "fields": {
     "name": "Natsuyaki Miyabi",
     "birthday": "1992-08-25",
-    "birthday_dayofyear_internal": 238
   },
   "model": "people.person",
   "pk": null
@@ -165,7 +149,6 @@
   "fields": {
     "name": "Sugaya Risako",
     "birthday": "1994-04-04",
-    "birthday_dayofyear_internal": 94
   },
   "model": "people.person",
   "pk": null
@@ -183,7 +166,6 @@
   "fields": {
     "name": "Umeda Erika",
     "birthday": "1991-05-24",
-    "birthday_dayofyear_internal": 144
   },
   "model": "people.person",
   "pk": null
@@ -192,7 +174,6 @@
   "fields": {
     "name": "Yajima Maimi",
     "birthday": "1992-02-07",
-    "birthday_dayofyear_internal": 38
   },
   "model": "people.person",
   "pk": null
@@ -210,7 +191,6 @@
   "fields": {
     "name": "Suzuki Airi",
     "birthday": "1994-04-12",
-    "birthday_dayofyear_internal": 102
   },
   "model": "people.person",
   "pk": null
@@ -228,7 +208,6 @@
   "fields": {
     "name": "Hagiwara Mai",
     "birthday": "1996-02-07",
-    "birthday_dayofyear_internal": 38
   },
   "model": "people.person",
   "pk": null
@@ -237,7 +216,6 @@
   "fields": {
     "name": "Arihara Kanna",
     "birthday": "1993-06-15",
-    "birthday_dayofyear_internal": 166
   },
   "model": "people.person",
   "pk": null
@@ -246,7 +224,6 @@
   "fields": {
     "name": "Murakami Megumi",
     "birthday": "1992-06-06",
-    "birthday_dayofyear_internal": 158
   },
   "model": "people.person",
   "pk": null
@@ -255,7 +232,6 @@
   "fields": {
     "name": "Ishikawa Rika",
     "birthday": "1985-01-19",
-    "birthday_dayofyear_internal": 19
   },
   "model": "people.person",
   "pk": null
@@ -264,7 +240,6 @@
   "fields": {
     "name": "Miyoshi Erika",
     "birthday": "1984-11-08",
-    "birthday_dayofyear_internal": 313
   },
   "model": "people.person",
   "pk": null
@@ -273,7 +248,6 @@
   "fields": {
     "name": "Okada Yui",
     "birthday": "1987-12-28",
-    "birthday_dayofyear_internal": 362
   },
   "model": "people.person",
   "pk": null
@@ -282,7 +256,6 @@
   "fields": {
     "name": "Murata Megumi",
     "birthday": "1981-03-03",
-    "birthday_dayofyear_internal": 62
   },
   "model": "people.person",
   "pk": null
@@ -291,7 +264,6 @@
   "fields": {
     "name": "Saitou Hitomi",
     "birthday": "1981-10-31",
-    "birthday_dayofyear_internal": 304
   },
   "model": "people.person",
   "pk": null
@@ -300,7 +272,6 @@
   "fields": {
     "name": "Ootani Masae",
     "birthday": "1982-02-25",
-    "birthday_dayofyear_internal": 56
   },
   "model": "people.person",
   "pk": null
@@ -309,7 +280,6 @@
   "fields": {
     "name": "Shibata Ayumi",
     "birthday": "1984-02-22",
-    "birthday_dayofyear_internal": 53
   },
   "model": "people.person",
   "pk": null
@@ -328,7 +298,6 @@
   "fields": {
     "name": "Satoda Mai",
     "birthday": "1984-03-29",
-    "birthday_dayofyear_internal": 89
   },
   "model": "people.person",
   "pk": null
@@ -337,7 +306,6 @@
   "fields": {
     "name": "Konno Asami",
     "birthday": "1987-05-07",
-    "birthday_dayofyear_internal": 127
   },
   "model": "people.person",
   "pk": null
@@ -346,7 +314,6 @@
   "fields": {
     "name": "Korenaga Miki",
     "birthday": "1985-11-04",
-    "birthday_dayofyear_internal": 308
   },
   "model": "people.person",
   "pk": null
@@ -355,7 +322,6 @@
   "fields": {
     "name": "Noto Arisa",
     "birthday": "1988-12-26",
-    "birthday_dayofyear_internal": 361
   },
   "model": "people.person",
   "pk": null
@@ -364,7 +330,6 @@
   "fields": {
     "name": "Sengoku Minami",
     "birthday": "1991-04-30",
-    "birthday_dayofyear_internal": 120
   },
   "model": "people.person",
   "pk": null
@@ -373,7 +338,6 @@
   "fields": {
     "name": "Sawada Yuri",
     "birthday": "1991-11-25",
-    "birthday_dayofyear_internal": 329
   },
   "model": "people.person",
   "pk": null
@@ -382,7 +346,6 @@
   "fields": {
     "name": "Mutou Mika",
     "birthday": "1992-01-31",
-    "birthday_dayofyear_internal": 31
   },
   "model": "people.person",
   "pk": null
@@ -391,7 +354,6 @@
   "fields": {
     "name": "Mano Erina",
     "birthday": "1991-04-11",
-    "birthday_dayofyear_internal": 101
   },
   "model": "people.person",
   "pk": null
@@ -400,7 +362,6 @@
   "fields": {
     "name": "Kikkawa You",
     "birthday": "1992-05-01",
-    "birthday_dayofyear_internal": 122
   },
   "model": "people.person",
   "pk": null
@@ -409,7 +370,6 @@
   "fields": {
     "name": "Kitahara Sayaka",
     "birthday": "1993-11-29",
-    "birthday_dayofyear_internal": 333
   },
   "model": "people.person",
   "pk": null
@@ -418,7 +378,6 @@
   "fields": {
     "name": "Abe Natsumi",
     "birthday": "1981-08-10",
-    "birthday_dayofyear_internal": 222
   },
   "model": "people.person",
   "pk": null
@@ -427,7 +386,6 @@
   "fields": {
     "name": "Ayaka",
     "birthday": "1981-10-30",
-    "birthday_dayofyear_internal": 303
   },
   "model": "people.person",
   "pk": null
@@ -436,7 +394,6 @@
   "fields": {
     "name": "Fujimoto Miki",
     "birthday": "1985-02-26",
-    "birthday_dayofyear_internal": 57
   },
   "model": "people.person",
   "pk": null
@@ -445,7 +402,6 @@
   "fields": {
     "name": "Inaba Atsuko",
     "birthday": "1974-03-13",
-    "birthday_dayofyear_internal": 72
   },
   "model": "people.person",
   "pk": null
@@ -454,7 +410,6 @@
   "fields": {
     "name": "Maeda Yuki",
     "birthday": "1979-08-28",
-    "birthday_dayofyear_internal": 240
   },
   "model": "people.person",
   "pk": null
@@ -463,7 +418,6 @@
   "fields": {
     "name": "Matsuura Aya",
     "birthday": "1986-06-25",
-    "birthday_dayofyear_internal": 176
   },
   "model": "people.person",
   "pk": null
@@ -472,7 +426,6 @@
   "fields": {
     "name": "Nakazawa Yuuko",
     "birthday": "1973-06-19",
-    "birthday_dayofyear_internal": 170
   },
   "model": "people.person",
   "pk": null
@@ -481,7 +434,6 @@
   "fields": {
     "name": "Yaguchi Mari",
     "birthday": "1983-01-20",
-    "birthday_dayofyear_internal": 20
   },
   "model": "people.person",
   "pk": null
@@ -490,7 +442,6 @@
   "fields": {
     "name": "Yasuda Kei",
     "birthday": "1980-12-06",
-    "birthday_dayofyear_internal": 341
   },
   "model": "people.person",
   "pk": null
@@ -499,7 +450,6 @@
   "fields": {
     "name": "Iida Kaori",
     "birthday": "1981-08-08",
-    "birthday_dayofyear_internal": 220
   },
   "model": "people.person",
   "pk": null
@@ -508,7 +458,6 @@
   "fields": {
     "name": "Ogawa Makoto",
     "birthday": "1987-10-29",
-    "birthday_dayofyear_internal": 302
   },
   "model": "people.person",
   "pk": null
@@ -517,7 +466,6 @@
   "fields": {
     "name": "Tsuji Nozomi",
     "birthday": "1987-06-17",
-    "birthday_dayofyear_internal": 168
   },
   "model": "people.person",
   "pk": null
@@ -526,7 +474,6 @@
   "fields": {
     "name": "Gotou Maki",
     "birthday": "1985-09-23",
-    "birthday_dayofyear_internal": 266
   },
   "model": "people.person",
   "pk": null
@@ -535,7 +482,6 @@
   "fields": {
     "name": "Kago Ai",
     "birthday": "1988-02-07",
-    "birthday_dayofyear_internal": 38
   },
   "model": "people.person",
   "pk": null
@@ -544,7 +490,6 @@
   "fields": {
     "name": "Asami",
     "birthday": "1984-07-17",
-    "birthday_dayofyear_internal": 199
   },
   "model": "people.person",
   "pk": null
@@ -554,7 +499,6 @@
 
     "name": "Miuna",
     "birthday": "1987-02-12",
-    "birthday_dayofyear_internal": 43
   },
   "model": "people.person",
   "pk": null
@@ -572,7 +516,6 @@
   "fields": {
     "name": "April Barbaran",
     "birthday": "1983-04-15",
-    "birthday_dayofyear_internal": 105
   },
   "model": "people.person",
   "pk": null
@@ -581,7 +524,6 @@
   "fields": {
     "name": "Chelsea Ching",
     "birthday": "1982-09-26",
-    "birthday_dayofyear_internal": 269
   },
   "model": "people.person",
   "pk": null
@@ -590,7 +532,6 @@
   "fields": {
     "name": "Danielle DeLaunay",
     "birthday": "1983-09-06",
-    "birthday_dayofyear_internal": 249
   },
   "model": "people.person",
   "pk": null
@@ -599,7 +540,6 @@
   "fields": {
     "name": "Lehua Sandbo",
     "birthday": "1983-02-07",
-    "birthday_dayofyear_internal": 38
   },
   "model": "people.person",
   "pk": null
@@ -608,7 +548,6 @@
   "fields": {
     "name": "Miyoshi Chinatsu",
     "birthday": "1979-08-14",
-    "birthday_dayofyear_internal": 226
   },
   "model": "people.person",
   "pk": null
@@ -617,7 +556,6 @@
   "fields": {
     "name": "Ishii Rika",
     "birthday": "1980-02-26",
-    "birthday_dayofyear_internal": 57
   },
   "model": "people.person",
   "pk": null
@@ -626,7 +564,6 @@
   "fields": {
     "name": "Shimmin",
     "birthday": "1983-04-28",
-    "birthday_dayofyear_internal": 118
   },
   "model": "people.person",
   "pk": null
@@ -635,7 +572,6 @@
   "fields": {
     "name": "Kominato Miwa",
     "birthday": "1977-02-15",
-    "birthday_dayofyear_internal": 46
   },
   "model": "people.person",
   "pk": null
@@ -644,7 +580,6 @@
   "fields": {
     "name": "RuRu",
     "birthday": "1976-03-18",
-    "birthday_dayofyear_internal": 78
   },
   "model": "people.person",
   "pk": null
@@ -653,7 +588,6 @@
   "fields": {
     "name": "Shinoda Miho",
     "birthday": "1972-05-18",
-    "birthday_dayofyear_internal": 139
   },
   "model": "people.person",
   "pk": null
@@ -662,7 +596,6 @@
   "fields": {
     "name": "Ooki Ibuki",
     "birthday": "1982-03-02",
-    "birthday_dayofyear_internal": 61
   },
   "model": "people.person",
   "pk": null
@@ -671,7 +604,6 @@
   "fields": {
     "name": "Kitagami Ami",
     "birthday": "1980-07-22",
-    "birthday_dayofyear_internal": 204
   },
   "model": "people.person",
   "pk": null
@@ -680,7 +612,6 @@
   "fields": {
     "name": "Suenaga Mami",
     "birthday": "1980-10-23",
-    "birthday_dayofyear_internal": 297
   },
   "model": "people.person",
   "pk": null
@@ -689,7 +620,6 @@
   "fields": {
     "name": "Arai Saki",
     "birthday": "1978-03-08",
-    "birthday_dayofyear_internal": 67
   },
   "model": "people.person",
   "pk": null
@@ -698,7 +628,6 @@
   "fields": {
     "name": "Kobayashi Azusa",
     "birthday": "1977-01-30",
-    "birthday_dayofyear_internal": 30
   },
   "model": "people.person",
   "pk": null
@@ -707,7 +636,6 @@
   "fields": {
     "name": "Yanagihara Hiromi",
     "birthday": "1979-10-19",
-    "birthday_dayofyear_internal": 292
   },
   "model": "people.person",
   "pk": null
@@ -716,7 +644,6 @@
   "fields": {
     "name": "Aoki Erina",
     "birthday": "1990-04-16",
-    "birthday_dayofyear_internal": 106
   },
   "model": "people.person",
   "pk": null
@@ -725,7 +652,6 @@
   "fields": {
     "name": "Tanaka Anri",
     "birthday": "1991-04-25",
-    "birthday_dayofyear_internal": 115
   },
   "model": "people.person",
   "pk": null
@@ -734,7 +660,6 @@
   "fields": {
     "name": "Furukawa Konatsu",
     "birthday": "1992-06-05",
-    "birthday_dayofyear_internal": 157
   },
   "model": "people.person",
   "pk": null
@@ -743,7 +668,6 @@
   "fields": {
     "name": "Sainen Mia",
     "birthday": "1993-06-22",
-    "birthday_dayofyear_internal": 173
   },
   "model": "people.person",
   "pk": null
@@ -752,7 +676,6 @@
   "fields": {
     "name": "Mori Saki",
     "birthday": "1993-10-12",
-    "birthday_dayofyear_internal": 285
   },
   "model": "people.person",
   "pk": null
@@ -761,7 +684,6 @@
   "fields": {
     "name": "Komine Momoka",
     "birthday": "1994-06-27",
-    "birthday_dayofyear_internal": 178
   },
   "model": "people.person",
   "pk": null
@@ -770,7 +692,6 @@
   "fields": {
     "name": "Wada Ayaka",
     "birthday": "1994-08-01",
-    "birthday_dayofyear_internal": 213
   },
   "model": "people.person",
   "pk": null
@@ -788,7 +709,6 @@
   "fields": {
     "name": "Fukuda Kanon",
     "birthday": "1995-03-12",
-    "birthday_dayofyear_internal": 71
   },
   "model": "people.person",
   "pk": null
@@ -806,7 +726,6 @@
   "fields": {
     "name": "Sekine Azusa",
     "birthday": "1996-06-14",
-    "birthday_dayofyear_internal": 166
   },
   "model": "people.person",
   "pk": null
@@ -815,7 +734,6 @@
   "fields": {
     "name": "Ogawa Saki",
     "birthday": "1996-11-18",
-    "birthday_dayofyear_internal": 323
   },
   "model": "people.person",
   "pk": null
@@ -824,7 +742,6 @@
   "fields": {
     "name": "Maeda Irori",
     "birthday": "1997-05-07",
-    "birthday_dayofyear_internal": 127
   },
   "model": "people.person",
   "pk": null
@@ -833,7 +750,6 @@
   "fields": {
     "name": "Arai Manami",
     "birthday": "1997-11-19",
-    "birthday_dayofyear_internal": 323
   },
   "model": "people.person",
   "pk": null
@@ -842,7 +758,6 @@
   "fields": {
     "name": "Ooyanagi Maho",
     "birthday": "1992-01-01",
-    "birthday_dayofyear_internal": 1
   },
   "model": "people.person",
   "pk": null
@@ -851,7 +766,6 @@
   "fields": {
     "name": "Kawashima Miyuki",
     "birthday": "1986-08-26",
-    "birthday_dayofyear_internal": 238
   },
   "model": "people.person",
   "pk": null
@@ -860,7 +774,6 @@
   "fields": {
     "name": "Hashida Mirei",
     "birthday": "1992-04-28",
-    "birthday_dayofyear_internal": 119
   },
   "model": "people.person",
   "pk": null
@@ -869,7 +782,6 @@
   "fields": {
     "name": "Ogura Manami",
     "birthday": "1991-07-13",
-    "birthday_dayofyear_internal": 194
   },
   "model": "people.person",
   "pk": null
@@ -887,7 +799,6 @@
   "fields": {
     "name": "Morozuka Kanami",
     "birthday": "1989-11-01",
-    "birthday_dayofyear_internal": 305
   },
   "model": "people.person",
   "pk": null
@@ -896,7 +807,6 @@
   "fields": {
     "name": "Oose Kaede",
     "birthday": "1991-04-29",
-    "birthday_dayofyear_internal": 119
   },
   "model": "people.person",
   "pk": null
@@ -905,7 +815,6 @@
   "fields": {
     "name": "Hashimoto Aina",
     "birthday": "1992-10-03",
-    "birthday_dayofyear_internal": 277
   },
   "model": "people.person",
   "pk": null
@@ -914,7 +823,6 @@
   "fields": {
     "name": "Akiyama Yurika",
     "birthday": "1992-10-19",
-    "birthday_dayofyear_internal": 293
   },
   "model": "people.person",
   "pk": null
@@ -923,7 +831,6 @@
   "fields": {
     "name": "Okada Robin Shouko",
     "birthday": "1993-03-15",
-    "birthday_dayofyear_internal": 74
   },
   "model": "people.person",
   "pk": null
@@ -932,7 +839,6 @@
   "fields": {
     "name": "Gotou Yuki",
     "birthday": "1993-06-12",
-    "birthday_dayofyear_internal": 163
   },
   "model": "people.person",
   "pk": null
@@ -941,7 +847,6 @@
   "fields": {
     "name": "Iwashima Manami",
     "birthday": "1989-12-17",
-    "birthday_dayofyear_internal": 351
   },
   "model": "people.person",
   "pk": null
@@ -960,7 +865,6 @@
   "fields": {
     "name": "Nakayama Nana",
     "birthday": "1992-04-03",
-    "birthday_dayofyear_internal": 94
   },
   "model": "people.person",
   "pk": null
@@ -969,7 +873,6 @@
   "fields": {
     "name": "Suma Ai",
     "birthday": "1992-04-15",
-    "birthday_dayofyear_internal": 106
   },
   "model": "people.person",
   "pk": null
@@ -978,7 +881,6 @@
   "fields": {
     "name": "Rinne",
     "birthday": "1981-02-06",
-    "birthday_dayofyear_internal": 37
   },
   "model": "people.person",
   "pk": null
@@ -996,7 +898,6 @@
   "fields": {
     "name": "Okai Asuna",
     "birthday": "1996-05-14",
-    "birthday_dayofyear_internal": 135
   },
   "model": "people.person",
   "pk": null
@@ -1005,7 +906,6 @@
   "fields": {
     "name": "Kaneko Rie",
     "birthday": "1997-07-01",
-    "birthday_dayofyear_internal": 182
   },
   "model": "people.person",
   "pk": null
@@ -1014,7 +914,6 @@
   "fields": {
     "name": "Takeuchi Akari",
     "birthday": "1997-11-23",
-    "birthday_dayofyear_internal": 327
   },
   "model": "people.person",
   "pk": null
@@ -1032,7 +931,6 @@
   "fields": {
     "name": "Miyamoto Karin",
     "birthday": "1998-12-01",
-    "birthday_dayofyear_internal": 335
   },
   "model": "people.person",
   "pk": null
@@ -1041,7 +939,6 @@
   "fields": {
     "name": "ShenShen",
     "birthday": "1988-01-10",
-    "birthday_dayofyear_internal": 10
   },
   "model": "people.person",
   "pk": null
@@ -1050,7 +947,6 @@
   "fields": {
     "name": "Youko",
     "birthday": "1992-08-28",
-    "birthday_dayofyear_internal": 241
   },
   "model": "people.person",
   "pk": null
@@ -1059,7 +955,6 @@
   "fields": {
     "name": "Guuchan",
     "birthday": "1996-12-14",
-    "birthday_dayofyear_internal": 349
   },
   "model": "people.person",
   "pk": null
@@ -1068,7 +963,6 @@
   "fields": {
     "name": "PeiPei",
     "birthday": "1991-02-10",
-    "birthday_dayofyear_internal": 41
   },
   "model": "people.person",
   "pk": null
@@ -1077,7 +971,6 @@
   "fields": {
     "name": "ReiRei",
     "birthday": "1994-01-16",
-    "birthday_dayofyear_internal": 16
   },
   "model": "people.person",
   "pk": null
@@ -1086,7 +979,6 @@
   "fields": {
     "name": "Anchii",
     "birthday": "1989-07-23",
-    "birthday_dayofyear_internal": 204
   },
   "model": "people.person",
   "pk": null
@@ -1095,7 +987,6 @@
   "fields": {
     "name": "Frances",
     "birthday": "2000-12-27",
-    "birthday_dayofyear_internal": 362
   },
   "model": "people.person",
   "pk": null
@@ -1104,7 +995,6 @@
   "fields": {
     "name": "Aiko",
     "birthday": "2002-12-21",
-    "birthday_dayofyear_internal": 355
   },
   "model": "people.person",
   "pk": null
@@ -1113,7 +1003,6 @@
   "fields": {
     "name": "Satou Ayano",
     "birthday": "1995-01-07",
-    "birthday_dayofyear_internal": 7
   },
   "model": "people.person",
   "pk": null
@@ -1122,7 +1011,6 @@
   "fields": {
     "name": "Sezaki Azusa",
     "birthday": "1994-05-29",
-    "birthday_dayofyear_internal": 149
   },
   "model": "people.person",
   "pk": null
@@ -1131,7 +1019,6 @@
   "fields": {
     "name": "Hirano Tomomi",
     "birthday": "1984-01-27",
-    "birthday_dayofyear_internal": 27
   },
   "model": "people.person",
   "pk": null
@@ -1140,7 +1027,6 @@
   "fields": {
     "name": "Katsuta Rina",
     "birthday": "1998-04-06",
-    "birthday_dayofyear_internal": 96
   },
   "model": "people.person",
   "pk": null
@@ -1149,7 +1035,6 @@
   "fields": {
     "name": "Takagi Sayuki",
     "birthday": "1997-04-21",
-    "birthday_dayofyear_internal": 111
   },
   "model": "people.person",
   "pk": null
@@ -1158,7 +1043,6 @@
   "fields": {
     "name": "Tanabe Nanami",
     "birthday": "1999-11-10",
-    "birthday_dayofyear_internal": 314
   },
   "model": "people.person",
   "pk": null
@@ -1167,7 +1051,6 @@
   "fields": {
     "name": "Jang DaYeon",
     "birthday": "1995-09-19",
-    "birthday_dayofyear_internal": 262
   },
   "model": "people.person",
   "pk": null
@@ -1176,7 +1059,6 @@
   "fields": {
     "name": "Kudou Haruka",
     "birthday": "1999-10-27",
-    "birthday_dayofyear_internal": 300
   },
   "model": "people.person",
   "pk": null
@@ -1185,7 +1067,6 @@
   "fields": {
     "name": "Nagasawa Wakana",
     "birthday": "1996-11-08",
-    "birthday_dayofyear_internal": 313
   },
   "model": "people.person",
   "pk": null
@@ -1194,7 +1075,6 @@
   "fields": {
     "name": "Kizawa Runa",
     "birthday": "1996-09-06",
-    "birthday_dayofyear_internal": 250
   },
   "model": "people.person",
   "pk": null
@@ -1203,7 +1083,6 @@
   "fields": {
     "name": "Ikuta Erina",
     "birthday": "1997-07-07",
-    "birthday_dayofyear_internal": 188
   },
   "model": "people.person",
   "pk": null
@@ -1212,7 +1091,6 @@
   "fields": {
     "name": "Sayashi Riho",
     "birthday": "1998-05-28",
-    "birthday_dayofyear_internal": 148
   },
   "model": "people.person",
   "pk": null
@@ -1221,7 +1099,6 @@
   "fields": {
     "name": "Suzuki Kanon",
     "birthday": "1998-08-05",
-    "birthday_dayofyear_internal": 217
   },
   "model": "people.person",
   "pk": null
@@ -1230,7 +1107,6 @@
   "fields": {
     "name": "Yoshihashi Kurumi",
     "birthday": "1999-09-22",
-    "birthday_dayofyear_internal": 265
   },
   "model": "people.person",
   "pk": null
@@ -1239,7 +1115,6 @@
   "fields": {
     "name": "Taguchi Natsumi",
     "birthday": "2000-07-21",
-    "birthday_dayofyear_internal": 203
   },
   "model": "people.person",
   "pk": null
@@ -1248,7 +1123,6 @@
   "fields": {
     "name": "Hamaura Ayano",
     "birthday": "2000-04-26",
-    "birthday_dayofyear_internal": 117
   },
   "model": "people.person",
   "pk": null
@@ -1257,7 +1131,6 @@
   "fields": {
     "name": "Ogawa Rena",
     "birthday": "2000-03-27",
-    "birthday_dayofyear_internal": 87
   },
   "model": "people.person",
   "pk": null
@@ -1266,7 +1139,6 @@
   "fields": {
     "name": "Ootsuka Aina",
     "birthday": "1998-04-03",
-    "birthday_dayofyear_internal": 93
   },
   "model": "people.person",
   "pk": null
@@ -1275,7 +1147,6 @@
   "fields": {
     "name": "Mogi Minami",
     "birthday": "1999-01-14",
-    "birthday_dayofyear_internal": 14
   },
   "model": "people.person",
   "pk": null
@@ -1302,7 +1173,6 @@
   "fields": {
     "name": "Tamura Meimi",
     "birthday": "1998-10-30",
-    "birthday_dayofyear_internal": 303
   },
   "model": "people.person",
   "pk": null
@@ -1311,7 +1181,6 @@
   "fields": {
     "name": "Iikubo Haruna",
     "birthday": "1994-11-07",
-    "birthday_dayofyear_internal": 311
   },
   "model": "people.person",
   "pk": null
@@ -1320,7 +1189,6 @@
   "fields": {
     "name": "Ishida Ayumi",
     "birthday": "1997-01-07",
-    "birthday_dayofyear_internal": 7
   },
   "model": "people.person",
   "pk": null
@@ -1329,7 +1197,6 @@
   "fields": {
     "name": "Satou Masaki",
     "birthday": "1999-05-07",
-    "birthday_dayofyear_internal": 127
   },
   "model": "people.person",
   "pk": null
@@ -1338,7 +1205,6 @@
   "fields": {
     "name": "Yamaga Kanae",
     "birthday": "1995-05-15",
-    "birthday_dayofyear_internal": 135
   },
   "model": "people.person",
   "pk": null
@@ -1347,7 +1213,6 @@
   "fields": {
     "name": "Oda Sakura",
     "birthday": "1999-03-12",
-    "birthday_dayofyear_internal": 71
   },
   "model": "people.person",
   "pk": null
@@ -1356,7 +1221,6 @@
   "fields": {
     "name": "Uemura Akari",
     "birthday": "1998-12-30",
-    "birthday_dayofyear_internal": 364
   },
   "model": "people.person",
   "pk": null
@@ -1365,7 +1229,6 @@
   "fields": {
     "name": "Murota Mizuki",
     "birthday": "1998-06-12",
-    "birthday_dayofyear_internal": 163
   },
   "model": "people.person",
   "pk": null
@@ -1374,7 +1237,6 @@
   "fields": {
     "name": "Okamura Rise",
     "birthday": "1998-07-28",
-    "birthday_dayofyear_internal": 209
   },
   "model": "people.person",
   "pk": null
@@ -1383,7 +1245,6 @@
   "fields": {
     "name": "Yamagishi Riko",
     "birthday": "1998-11-24",
-    "birthday_dayofyear_internal": 328
   },
   "model": "people.person",
   "pk": null
@@ -1392,7 +1253,6 @@
   "fields": {
     "name": "Nomura Minami",
     "birthday": "2000-02-10",
-    "birthday_dayofyear_internal": 41
   },
   "model": "people.person",
   "pk": null
@@ -1401,7 +1261,6 @@
   "fields": {
     "name": "Kanazawa Tomoko",
     "birthday": "1995-07-02",
-    "birthday_dayofyear_internal": 183
   },
   "model": "people.person",
   "pk": null
@@ -1410,7 +1269,6 @@
   "fields": {
     "name": "Ichioka Reina",
     "birthday": "1999-02-25",
-    "birthday_dayofyear_internal": 56
   },
   "model": "people.person",
   "pk": null
@@ -1419,7 +1277,6 @@
   "fields": {
     "name": "Miyazaki Yuka",
     "birthday": "1994-04-02",
-    "birthday_dayofyear_internal": 92
   },
   "model": "people.person",
   "pk": null
@@ -1428,7 +1285,6 @@
   "fields": {
     "name": "Kishimoto Yumeno",
     "birthday": "2000-04-01",
-    "birthday_dayofyear_internal": 92
   },
   "model": "people.person",
   "pk": null
@@ -1437,7 +1293,6 @@
   "fields": {
     "name": "Makino Maria",
     "birthday": "2001-02-02",
-    "birthday_dayofyear_internal": 33
   },
   "model": "people.person",
   "pk": null
@@ -1446,7 +1301,6 @@
   "fields": {
     "name": "Kaga Kaede",
     "birthday": "1999-11-30",
-    "birthday_dayofyear_internal": 334
   },
   "model": "people.person",
   "pk": null
@@ -1455,7 +1309,6 @@
   "fields": {
     "name": "Wada Sakurako",
     "birthday": "2001-03-08",
-    "birthday_dayofyear_internal": 67
   },
   "model": "people.person",
   "pk": null
@@ -1464,7 +1317,6 @@
   "fields": {
     "name": "Sasaki Rikako",
     "birthday": "2001-05-28",
-    "birthday_dayofyear_internal": 148
   },
   "model": "people.person",
   "pk": null
@@ -1473,7 +1325,6 @@
   "fields": {
     "name": "Tanaka Karen",
     "birthday": "1997-12-24",
-    "birthday_dayofyear_internal": 358
   },
   "model": "people.person",
   "pk": null
@@ -1482,7 +1333,6 @@
   "fields": {
     "name": "Inaba Manaka",
     "birthday": "1997-12-27",
-    "birthday_dayofyear_internal": 361
   },
   "model": "people.person",
   "pk": null
@@ -1491,7 +1341,6 @@
   "fields": {
     "name": "Mikame Kana",
     "birthday": "1998-08-28",
-    "birthday_dayofyear_internal": 240
   },
   "model": "people.person",
   "pk": null
@@ -1500,7 +1349,6 @@
   "fields": {
     "name": "Fujii Rio",
     "birthday": "1999-03-04",
-    "birthday_dayofyear_internal": 63
   },
   "model": "people.person",
   "pk": null
@@ -1509,7 +1357,6 @@
   "fields": {
     "name": "Mashiro Kana",
     "birthday": "1999-08-29",
-    "birthday_dayofyear_internal": 241
   },
   "model": "people.person",
   "pk": null
@@ -1518,7 +1365,6 @@
   "fields": {
     "name": "Inoue Hikaru",
     "birthday": "2000-08-31",
-    "birthday_dayofyear_internal": 244
   },
   "model": "people.person",
   "pk": null
@@ -1527,7 +1373,6 @@
   "fields": {
     "name": "Haga Akane",
     "birthday": "2002-03-07",
-    "birthday_dayofyear_internal": 66
   },
   "model": "people.person",
   "pk": null
@@ -1536,7 +1381,6 @@
   "fields": {
     "name": "Funaki Musubu",
     "birthday": "2002-05-10",
-    "birthday_dayofyear_internal": 130
   },
   "model": "people.person",
   "pk": null
@@ -1545,7 +1389,6 @@
   "fields": {
     "name": "Ooura Hirona",
     "birthday": "2000-09-10",
-    "birthday_dayofyear_internal": 254
   },
   "model": "people.person",
   "pk": null
@@ -1554,7 +1397,6 @@
   "fields": {
     "name": "Niinuma Kisora",
     "birthday": "1999-10-20",
-    "birthday_dayofyear_internal": 293
   },
   "model": "people.person",
   "pk": null
@@ -1563,7 +1405,6 @@
   "fields": {
     "name": "Danbara Ruru",
     "birthday": "2001-05-07",
-    "birthday_dayofyear_internal": 127
   },
   "model": "people.person",
   "pk": null
@@ -1572,7 +1413,6 @@
   "fields": {
     "name": "Yokogawa Yumei",
     "birthday": "1999-03-14",
-    "birthday_dayofyear_internal": 73
   },
   "model": "people.person",
   "pk": null
@@ -1581,7 +1421,6 @@
   "fields": {
     "name": "Yamaki Risa",
     "birthday": "1997-10-14",
-    "birthday_dayofyear_internal": 287
   },
   "model": "people.person",
   "pk": null
@@ -1590,7 +1429,6 @@
   "fields": {
     "name": "Okada Marina",
     "birthday": "1993-07-24",
-    "birthday_dayofyear_internal": 205
   },
   "model": "people.person",
   "pk": null
@@ -1599,7 +1437,6 @@
   "fields": {
     "name": "Uozumi Yuki",
     "birthday": "1991-07-14",
-    "birthday_dayofyear_internal": 195
   },
   "model": "people.person",
   "pk": null
@@ -1608,7 +1445,6 @@
   "fields": {
     "name": "Miyazawa Marin",
     "birthday": "1993-04-10",
-    "birthday_dayofyear_internal": 100
   },
   "model": "people.person",
   "pk": null
@@ -1617,7 +1453,6 @@
   "fields": {
     "name": "Aikawa Maho",
     "birthday": "1999-03-26",
-    "birthday_dayofyear_internal": 85
   },
   "model": "people.person",
   "pk": null
@@ -1626,7 +1461,6 @@
   "fields": {
     "name": "Takemura Miu",
     "birthday": "2001-04-28",
-    "birthday_dayofyear_internal": 118
   },
   "model": "people.person",
   "pk": null
@@ -1635,7 +1469,6 @@
   "fields": {
     "name": "Saitou Kana",
     "birthday": "2001-08-26",
-    "birthday_dayofyear_internal": 238
   },
   "model": "people.person",
   "pk": null
@@ -1644,7 +1477,6 @@
   "fields": {
     "name": "Ogata Haruna",
     "birthday": "1999-02-15",
-    "birthday_dayofyear_internal": 46
   },
   "model": "people.person",
   "pk": null
@@ -1653,7 +1485,6 @@
   "fields": {
     "name": "Nonaka Miki",
     "birthday": "1999-10-07",
-    "birthday_dayofyear_internal": 280
   },
   "model": "people.person",
   "pk": null
@@ -1662,7 +1493,6 @@
   "fields": {
     "name": "Kita Remi",
     "birthday": "1992-02-20",
-    "birthday_dayofyear_internal": 51
   },
   "model": "people.person",
   "pk": null
@@ -1671,7 +1501,6 @@
   "fields": {
     "name": "Himeno Ryouna",
     "birthday": "1992-03-02",
-    "birthday_dayofyear_internal": 62
   },
   "model": "people.person",
   "pk": null
@@ -1680,7 +1509,6 @@
   "fields": {
     "name": "Morito Chisaki",
     "birthday": "2000-02-19",
-    "birthday_dayofyear_internal": 50
   },
   "model": "people.person",
   "pk": null
@@ -1689,7 +1517,6 @@
   "fields": {
     "name": "Shimamura Uta",
     "birthday": "2000-06-24",
-    "birthday_dayofyear_internal": 176
   },
   "model": "people.person",
   "pk": null
@@ -1698,7 +1525,6 @@
   "fields": {
     "name": "Ozeki Mai",
     "birthday": "2002-02-10",
-    "birthday_dayofyear_internal": 41
   },
   "model": "people.person",
   "pk": null
@@ -1707,7 +1533,6 @@
   "fields": {
     "name": "Inoue Rei",
     "birthday": "2001-07-17",
-    "birthday_dayofyear_internal": 198
   },
   "model": "people.person",
   "pk": null
@@ -1716,7 +1541,6 @@
   "fields": {
     "name": "Hirose Ayaka",
     "birthday": "1999-08-04",
-    "birthday_dayofyear_internal": 216
   },
   "model": "people.person",
   "pk": null
@@ -1725,7 +1549,6 @@
   "fields": {
     "name": "Asakura Kiki",
     "birthday": "2000-09-03",
-    "birthday_dayofyear_internal": 247
   },
   "model": "people.person",
   "pk": null
@@ -1734,7 +1557,6 @@
   "fields": {
     "name": "Onoda Saori",
     "birthday": "2001-12-17",
-    "birthday_dayofyear_internal": 351
   },
   "model": "people.person",
   "pk": null
@@ -1743,7 +1565,6 @@
   "fields": {
     "name": "Hashimoto Nagisa",
     "birthday": "1997-07-03",
-    "birthday_dayofyear_internal": 184
   },
   "model": "people.person",
   "pk": null
@@ -1752,7 +1573,6 @@
   "fields": {
     "name": "Horie Kizuki",
     "birthday": "1998-05-14",
-    "birthday_dayofyear_internal": 134
   },
   "model": "people.person",
   "pk": null
@@ -1761,7 +1581,6 @@
   "fields": {
     "name": "Ogata Risa",
     "birthday": "1998-11-05",
-    "birthday_dayofyear_internal": 309
   },
   "model": "people.person",
   "pk": null
@@ -1770,7 +1589,6 @@
   "fields": {
     "name": "Shimano Momoko",
     "birthday": "1999-05-31",
-    "birthday_dayofyear_internal": 151
   },
   "model": "people.person",
   "pk": null
@@ -1779,7 +1597,6 @@
   "fields": {
     "name": "Tanimoto Ami",
     "birthday": "1999-11-16",
-    "birthday_dayofyear_internal": 320
   },
   "model": "people.person",
   "pk": null
