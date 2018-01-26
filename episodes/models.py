@@ -6,6 +6,8 @@ from django.db import models
 
 from model_utils import Choices
 
+from people.models import Person
+
 
 class Episode(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
@@ -18,6 +20,9 @@ class Episode(models.Model):
     def __str__(self):
         return '%d' % self.number
 
+    @property
+    def birthdays(self):
+        return Person.objects.get_upcoming_birthdays(after=self.date)
 
 class Corner(models.Model):
     CATEGORY = Choices(
