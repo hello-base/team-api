@@ -11,3 +11,5 @@ from .serializers import ViewingSerializer
 class ViewingViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = Viewing.objects.all()
     serializer_class = ViewingSerializer
+    filter_backends = (filters.DjangoFilterBackend,)
+    filter_fields = ('episode__number',)

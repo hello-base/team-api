@@ -24,6 +24,7 @@ class Episode(models.Model):
     def birthdays(self):
         return Person.objects.get_upcoming_birthdays(after=self.date)
 
+
 class Corner(models.Model):
     CATEGORY = Choices(
         ('activity', 'Activity'),
