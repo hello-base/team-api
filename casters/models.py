@@ -10,5 +10,10 @@ class Caster(models.Model):
     oshi_overall = models.CharField('All-Time Favorites', max_length=255, blank=True)
     oshi_current = models.CharField('Current Favorites', max_length=255, blank=True)
 
+    order = models.PositiveSmallIntegerField()
+
+    class Meta:
+        ordering = ['order']
+
     def __str__(self):
         return self.user.username
