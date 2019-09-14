@@ -7,7 +7,7 @@ from .serializers import UserSerializer
 
 
 class UserViewSet(viewsets.ReadOnlyModelViewSet):
-    queryset = User.objects.all()
+    queryset = User.objects.filter(is_active=True)
     serializer_class = UserSerializer
 
     def filter_queryset(self, queryset):
